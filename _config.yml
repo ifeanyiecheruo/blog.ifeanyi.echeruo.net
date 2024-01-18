@@ -18,9 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ifeanyi Echeruo [Blog]
+title: Ifeanyi Echeruo
 email: ifeanyi.echeruo@outlook.com
-description: Ifeanyi Echeruo [Blog]
+description:
+
+github:
+  is_project_page: false
+  is_user_page: false
 
 domain: blog.ifeanyi.echeruo.net
 baseurl: "" # the subpath of your site, e.g. /blog
