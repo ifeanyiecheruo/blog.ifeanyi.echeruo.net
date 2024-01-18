@@ -32,7 +32,6 @@ github:
 domain: blog.ifeanyi.echeruo.net
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.ifeanyi.echeruo.net"
-logo: ''
 
 timezone: America/Los_Angeles
 
